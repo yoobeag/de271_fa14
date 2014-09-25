@@ -1,0 +1,26 @@
+
+
+body {
+font-family: 'Georgia';
+width: 500px
+}
+
+div {
+background-color: rgb(210, 236, 249);
+padding: 10px;
+border: 30px dashed #2E4754;	
+}
+
+
+#advanced {
+border: 30px bisque #2E4754;
+}
+
+#mandatory {
+border: 30px bisque #2E4754;
+}
+
+.header title, h1,h2 {
+font-family: 'helvetica'
+}
+
