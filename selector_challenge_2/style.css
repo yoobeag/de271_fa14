@@ -1,0 +1,59 @@
+
+body{
+font-family: 'colfax';
+font-size: 16px;
+color: white;
+background-color: rgb(135, 222, 177);
+}
+
+h1{
+font-size: 60px;
+line-height:70px;
+opacity: 0.5;
+}
+
+.wrapper{
+background-color: rgb(77, 157, 189);
+width: 50%;
+margin:auto;
+padding:50px;
+line-height:30px;
+}
+
+
+
+ul{
+list-style-type: none;
+padding: 0;
+}
+
+nav li{
+display: inline-block;
+margin:70px;
+}
+
+nav a{
+display:block;
+background-color: none;
+padding: 0;
+border:4px double whitesmoke;
+}
+
+
+a:hover{
+color:white;
+padding: 2px;
+}
+
+ol{
+padding:10px;
+}
+
+p{
+border:3px double;
+padding:10px;
+
+.code{
+color: black;
+}
+
