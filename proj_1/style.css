@@ -1,0 +1,72 @@
+
+body{
+font-family: 'Gotham';
+font-size: 15px;
+background-color: none;
+text-align: center;
+margin: auto;
+
+}
+
+
+h1{
+font-size: 90px;
+padding-top: 50px;
+line-height:100px;
+margin: auto;
+}
+
+
+
+.wrapper{
+margin:auto;
+line-height:20px;
+}
+
+
+a:link, a:visited {
+color: rgb(62, 87, 64);
+}
+
+ 
+ 
+ul{
+list-style-type: none;
+font-family: 'gotham';
+font-color: black;
+padding: 0;
+}
+
+nav li{
+display: inline-block;
+margin:60px;
+}
+
+nav a{
+display:block;
+background-color: none;
+padding: 5px;
+
+}
+
+a{
+transition:all 0.5s;
+text-decoration: none;
+}
+
+a:hover{
+color:gray;
+padding: 2px;
+transition:all 0.5s;
+text-decoration: none;
+}
+
+ol{
+padding:10px;
+}
+
+
+code{
+color: black;
+}
+
